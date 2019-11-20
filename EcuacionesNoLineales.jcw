@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EcuacionesNoLineales</label>
+		<id>330</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>EcuacionesNoLineales.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EcuacionesNoLineales.jcp</path>
+		</project>
+	</projects>
+</workspace>
